@@ -1,0 +1,21 @@
+.button{
+  background-color:aqua;
+  color: rgb(185, 80, 255);
+}
+p1{
+  background-color: blue;
+  color: red;
+}
+h1{
+  background-color:aquamarine;
+}
+.sliders{
+  background-color: red;
+}
+.paragraph{
+  background-color: rgb(0,48,143);
+  color:aqua
+}
+.name{
+  font-weight: bold;
+}
