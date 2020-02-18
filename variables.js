@@ -42,3 +42,4 @@ let ellipsePressed = false
 // The rect mode
 let rectButton
 let rectMode = false
+let rectPressed = false
