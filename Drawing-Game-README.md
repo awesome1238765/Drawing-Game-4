@@ -1,5 +1,9 @@
 # Drawing Game 2
 This is a game that I have been working on for a very long time and has inpsired me to make a website
+# Creaters
+awesome1238765
+Me54321
+xTacticalx
 # Contents
 This Code has so many files already such as:
 1.Index.HTML
