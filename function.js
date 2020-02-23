@@ -39,20 +39,20 @@ function changeBackground() {
   background(random(0, 255), random(0, 255), random(0, 255));
 }
 function clearScreen() {
-  if (ellipseMode === true){
-  clear();
-  background(0);
-  fill(255)
-  inp1.color("white")
-  inp2.color("black")
-  s2.value(0)
-  }else if(rectMode === true){
-  clear();
-  background(0);
-  fill(255)
-  inp1.color("white")
-  inp2.color("black")
-  s2.value(0)
+  if (ellipseMode === true) {
+    clear();
+    background(0);
+    fill(255)
+    inp1.color("white")
+    inp2.color("black")
+    s2.value(0)
+  } else if (rectMode === true) {
+    clear();
+    background(0);
+    fill(255)
+    inp1.color("white")
+    inp2.color("black")
+    s2.value(0)
   }
 }
 function makeMultiColor() {
@@ -156,8 +156,8 @@ function ellipseModeFun() {
     p3.class('paragraph')
     p4.class('paragraph')
     p5.class('paragraph')
-  }else if(ellipseMode === true && rectMode === true){
-		b2.remove()
+  } else if (ellipseMode === true && rectMode === true) {
+    b2.remove()
     b3.remove()
     b4.remove()
     b5.remove()
@@ -173,8 +173,8 @@ function ellipseModeFun() {
     p5.remove()
     inp1.remove()
     inp2.remove()
-	  rectMode = false
-	}
+    rectMode = false
+  }
 }
 function rectModeFun() {
   rectMode = true
@@ -254,8 +254,8 @@ function rectModeFun() {
     b7.class('button')
     setMidShade();
     setMidShade();
-  }else if(ellipseMode === true && rectMode === true){
-		b2.remove()
+  } else if (ellipseMode === true && rectMode === true) {
+    b2.remove()
     b3.remove()
     b4.remove()
     b5.remove()
@@ -271,6 +271,6 @@ function rectModeFun() {
     p5.remove()
     inp1.remove()
     inp2.remove()
-	  rectMode = false
-	}
+    rectMode = false
+  }
 }
