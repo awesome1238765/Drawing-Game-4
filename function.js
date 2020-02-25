@@ -1,3 +1,4 @@
+// The start of the code
 function setup() {
   // The canvas
   can = createCanvas(canvasSize, canvasSize);
