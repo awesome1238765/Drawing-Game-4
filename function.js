@@ -253,6 +253,10 @@ function rectModeFun() {
     b4.class('button')
     b5.class('button')
     b7.class('button')
+    p1.class('paragraph')
+    p2.class('paragraph')
+    p3.class('paragraph')
+    p4.class('paragraph')
     setMidShade();
     setMidShade();
   } else if (ellipseMode === true && rectMode === true) {
