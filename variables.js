@@ -39,8 +39,9 @@ let colors
 // The ellipse mode
 let ellipseButton
 let ellipseMode = false
-let ellipsePressed = false
 // The rect mode
 let rectButton
 let rectMode = false
-let rectPressed = false
+// The text mode
+let textButton
+let textMode = false
