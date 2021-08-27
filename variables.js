@@ -27,7 +27,7 @@ let p4
 let p5
 // The canvas and its size
 let can
-let canvasSize = 400
+let canvasSize = 600
 // Colors
 let sr = 255
 let sg = 255
