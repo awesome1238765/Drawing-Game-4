@@ -1,6 +1,6 @@
 # Drawing Game 
 This is a game that I have been working on for a very long time and has inpsired me to make a website
-# Creaters
+# Creators
 awesome1238765
 Me54321
 xTacticalx
