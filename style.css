@@ -1,21 +1,27 @@
 .button{
   background-color:aqua;
   color: rgb(185, 80, 255);
+  border-radius: 5px
 }
 p1{
   background-color: blue;
   color: red;
+  border-radius: 5px
 }
 h1{
   background-color:aquamarine;
+  border-radius: 5px
 }
 .sliders{
   background-color: red;
+  border-radius: 5px
 }
 .paragraph{
   background-color: rgb(0,48,143);
-  color:aqua
+  color:aqua;
+  border-radius: 5px
 }
 .name{
   font-weight: bold;
+  border-radius: 5px
 }
