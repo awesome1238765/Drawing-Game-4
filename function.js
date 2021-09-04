@@ -44,21 +44,12 @@ function changeBackground() {
   background(random(0, 255), random(0, 255), random(0, 255));
 }
 function clearScreen() {
-  if (ellipseMode === true) {
     clear();
     background(0);
     fill(255)
     inp1.color("white")
     inp2.color("black")
     s2.value(0)
-  } else if (rectMode === true) {
-    clear();
-    background(0);
-    fill(255)
-    inp1.color("white")
-    inp2.color("black")
-    s2.value(0)
-  }
 }
 function makeMultiColor() {
   loop()
